@@ -1,0 +1,10 @@
+{
+  "about": "Start dates of Hijri months in Bangladesh, as announced by the National Moon Sighting Committee (Islamic Foundation Bangladesh). The Salat app downloads this file and uses these dates instead of its calculation. After each announcement, add one entry: hijri = year-month (month 01 = Muharram ... 12 = Zilhaj), start = the Gregorian date of the 1st of that month in Bangladesh.",
+  "months": [
+    { "hijri": "1447-10", "start": "2026-03-21", "note": "Shawwal: Eid ul-Fitr on 21 March", "source": "https://www.latestly.com/lifestyle/festivals-events/eid-moon-sighting-2026-final-update-shawwal-crescent-not-sighted-bangladesh-to-celebrate-eid-ul-fitr-on-march-21-7360606.html/amp" },
+    { "hijri": "1447-11", "start": "2026-04-20", "note": "Zilqad moon not sighted; month begins 20 April", "source": "https://thefinancialexpress.com.bd/national/zilqad-moon-not-sighted-month-to-begin-april-20" },
+    { "hijri": "1448-01", "start": "2026-06-17", "note": "Muharram begins 17 June; Ashura 26 June", "source": "https://www.dhakatribune.com/bangladesh/412853/holy-ashura-on-june-26" },
+    { "hijri": "1448-02", "start": "2026-07-16", "note": "Safar moon sighted; month begins 16 July", "source": "https://www.bssnews.net/others/314801" },
+    { "hijri": "1448-03", "start": "2026-08-15", "note": "Rabiul Awal moon not sighted on 13 Aug; month begins 15 Aug; Eid-e-Miladunnabi 26 Aug", "source": "https://www.dhakatribune.com/bangladesh/417407/eid-e-miladunnabi-on-aug-26" }
+  ]
+}
