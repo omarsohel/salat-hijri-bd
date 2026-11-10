@@ -17,3 +17,7 @@ The committee publishes its decisions only as press releases and news reports, s
 ## Adding a month
 
 After each committee announcement, add one entry with a link to an official or news source, then commit. Only add dates that were actually announced.
+
+## Privacy policy
+
+The Salat app's privacy policy (English and Bangla) is in [privacy-policy.md](privacy-policy.md).
